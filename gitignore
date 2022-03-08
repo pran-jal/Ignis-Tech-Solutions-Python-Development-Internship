@@ -1,6 +1,4 @@
-*.json
-test.*
+1.json
 *.html
 
-main.py
-*.csv
+test.py
