@@ -88,13 +88,14 @@ def main() :
         return
     
     url = 'https://www.copunderdog.com/wp-json/wc/store/products'
-
     total_pages = int(r.head(url).headers['x-wp-totalpages'])
+    
     print('creating shoes.csv')
     try:
         os.remove('shoes.csv')                                  # del previous .csv file
     except:
         pass
+
     f = open("shoes.csv", 'a', encoding='utf-8')            # to initialize the .csv file
     writer = csv.writer(f)
     header = ['Item URL', 'Name', 'Price', 'Brand', 'Size', 'SKU', 'categories', 'Description', 'All images urls' ]
