@@ -82,10 +82,10 @@ class shoes():
 
 
 def main() :
-    # argv = sys.argv
-    # if 'copunderdog' not in argv and 'www.copunderdog.com' not in argv and 'copunderdog.com' not in argv and 'https://www.copunderdog.com' not in argv:
-    #     print("Invalid name")
-    #     return
+    argv = sys.argv
+    if 'copunderdog' not in argv and 'www.copunderdog.com' not in argv and 'copunderdog.com' not in argv and 'https://www.copunderdog.com' not in argv:
+        print("Invalid name\nTry 'copunderdog.com' ")
+        return
     
     url = 'https://www.copunderdog.com/wp-json/wc/store/products'
 
