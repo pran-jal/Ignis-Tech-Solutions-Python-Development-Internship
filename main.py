@@ -82,15 +82,14 @@ class shoes():
 
 
 def main() :
-    # argv = sys.argv
-    # if 'copunderdog' not in argv and 'www.copunderdog.com' not in argv and 'copunderdog.com' not in argv and 'https://www.copunderdog.com' not in argv:
-    #     print("Invalid name")
-    #     return
+    argv = sys.argv
+    if 'copunderdog' not in argv and 'www.copunderdog.com' not in argv and 'copunderdog.com' not in argv and 'https://www.copunderdog.com' not in argv:
+        print("Invalid name")
+        return
     
     url = 'https://www.copunderdog.com/wp-json/wc/store/products'
 
     total_pages = int(r.head(url).headers['x-wp-totalpages'])
-    total_shoes = int(r.head(url).headers['x-wp-total'])
     print('creating shoes.csv')
     try:
         os.remove('shoes.csv')                                  # del previous .csv file
@@ -104,6 +103,7 @@ def main() :
 
     for i in range(1, total_pages+1):
         page = r.get(url+"?page=%d" %i).json()
+        print('Writing page %d\n'%(i))
         for i in range(10):
             shoe_link = page[i]['permalink']
             if shoe_link.split('/')[4] == 'sneakers':
