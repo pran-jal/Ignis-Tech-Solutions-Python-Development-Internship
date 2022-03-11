@@ -1,69 +1,728 @@
 Item URL,Name,Price,Brand,Size,SKU,categories,Description,All images urls
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-brotherhood-university-gold-light-bordeaux/,Air Jordan 1 High Brotherhood – University Gold/Light Bordeaux,"20,999.00",Jordans,11,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-university-gold/,Air Jordan 1 Mid University Gold,"13,999.00",Jordans,9,N/A,"Jordans, Sneakers",IN-STORE READY TO SHIP,
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-kabab-and-destroy/,Nike Dunk High Kabab And Destroy,"20,499.00",Nike,9,N/A,"Nike, Sneakers",IN-STORE READY TO SHIP,
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-11-retro-high-jubilee/,Air Jordan 11 Retro High “Jubilee”,"25,999.00",Jordans,8.5,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-unc/,Nike Dunk Low UNC,"29,999.00",Nike,10,N/A,"Nike, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-marina/,Air Jordan 1 High Marina,"19,999.00 – ₹ 20,999.00",Jordans,9,N/A,"Jordans, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-11-cool-grey/,Air Jordan 11 Cool Grey,"25,999.00",Jordans,11,N/A,"Jordans, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/34.png ,
+https://www.copunderdog.com/shop/sneakers/air-jordan-1-mid-armory-navy/,Air Jordan 1 Mid Armory Navy,₹ 2299900,Sneakers,[9],N/A,,,
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-brotherhood-university-gold-light-bordeaux/,Air Jordan 1 High Brotherhood &#8211; University Gold/Light Bordeaux,₹ 2099900,Jordans,"[7, 8, 9, 10, 11]",N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-1-university-gold-and-light-bordeaux-555088-706-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-university-gold/,Air Jordan 1 Mid University Gold,₹ 1399900,Jordans,[9],N/A,"Jordans, Sneakers",IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/g-mid.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-kabab-and-destroy/,Nike Dunk High Kabab And Destroy,₹ 2049900,Nike,[9],N/A,"Nike, Sneakers",IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/kabab.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-11-retro-high-jubilee/,Air Jordan 11 Retro High &#8220;Jubilee&#8221;,₹ 2599900,Jordans,[8.5],N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-11-jubilee-release-date-1.jpeg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-unc/,Nike Dunk Low UNC,₹ 2999900,Nike,"[8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/dunk-low-university-blue-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-marina/,Air Jordan 1 High Marina,₹ 1999900,Jordans,"[5, 6, 7, 7.5, 8.5, 9]",N/A,"Jordans, Sneakers",BRAND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-1-dark-marina-blue-555088-404-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-11-cool-grey/,Air Jordan 11 Cool Grey,₹ 2599900,Jordans,"[8, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN-STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/02/34.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/34.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/34.png ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/34.png"
-https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-dazzling-blue/,Adidas Yeezy Boost 350 V2 Dazzling Blue,"35,999.00 – ₹ 38,999.00",Yeezy,12.5,N/A,"Sneakers, Yeezy",PRE – ORDER,
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-racer-blue-orange/,Nike Dunk Low Racer Blue Orange,"15,999.00 – ₹ 16,999.00",Nike,10,N/A,"Nike, Sneakers",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2022/02/racer-1.jpg ,
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-dazzling-blue/,Adidas Yeezy Boost 350 V2 Dazzling Blue,₹ 3599900,Yeezy,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5]",N/A,"Sneakers, Yeezy",PRE &#8211; ORDER,https://www.copunderdog.com/wp-content/uploads/2022/02/dazzling.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-racer-blue-orange/,Nike Dunk Low Racer Blue Orange,₹ 1599900,Nike,"[8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2022/02/racer-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/racer-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/racer-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/racer-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/racer-1.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/racer-2.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/racer-4.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/racer-3.jpg"
-https://www.copunderdog.com/shop/sneakers/jordans/off-white-x-air-jordan-5-muslin/,Off-White X Air Jordan 5 ‘MUSLIN’,"81,999.00",Jordans,10.5,N/A,"Jordans, Sneakers",IN-STORE READY TO SHIP,
-https://www.copunderdog.com/shop/sneakers/jordans/air-joradan-1-mid-racer-blue/,Air Joradan 1 Mid Racer Blue,"20,999.00 – ₹ 22,999.00",Jordans,11,N/A,"Jordans, Sneakers",BRAND NEW,
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-team-red/,Nike Dunk High Team Red,"19,500.00",Nike,7,N/A,"Nike, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/20.png ,
+https://www.copunderdog.com/shop/sneakers/jordans/off-white-x-air-jordan-5-muslin/,Off-White X Air Jordan 5 &#8216;MUSLIN&#8217;,₹ 8199900,Jordans,[10.5],N/A,"Jordans, Sneakers",IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/36.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-joradan-1-mid-racer-blue/,Air Joradan 1 Mid Racer Blue,₹ 2099900,Jordans,"[8, 9, 11]",N/A,"Jordans, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2021/06/royal-blue.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-team-red/,Nike Dunk High Team Red,₹ 1950000,Nike,[7],N/A,"Nike, Sneakers",BRAND NEW IN-STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/02/20.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-w-dunk-high-team-red_16679756_32729336_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-w-dunk-high-team-red_16679756_32729337_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/20.png ,
 https://www.copunderdog.com/wp-content/uploads/2021/06/nike-w-dunk-high-team-red_16679756_32729336_1000.png ,
 https://www.copunderdog.com/wp-content/uploads/2021/06/nike-w-dunk-high-team-red_16679756_32729337_1000.png"
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-mocha/,Air Jordan 1 High Mocha,"54,999.00",Jordans,11,N/A,"Jordans, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/25.png ,
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-mocha/,Air Jordan 1 High Mocha,₹ 5499900,Jordans,"[8.5, 9.5, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN-STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/02/25.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/mocha.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/mocha-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/25.png ,
 https://www.copunderdog.com/wp-content/uploads/2020/11/mocha.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2020/11/mocha-1.jpg"
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-rust-shadow/,Air Jordan 1 High Rust Shadow,"24,999.00",Jordans,5.5,N/A,"Jordans, Sneakers","BRAND NEW
-IN-STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/21.png ,
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-rust-shadow/,Air Jordan 1 High Rust Shadow,₹ 2499900,Jordans,[5.5],N/A,"Jordans, Sneakers",BRAND NEW IN-STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/02/21.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/rust.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/rust-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/21.png ,
 https://www.copunderdog.com/wp-content/uploads/2021/06/rust.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2021/06/rust-1.jpg"
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-vintage-black/,Nike Dunk High “Vintage Black”,"20,999.00",Nike,9,N/A,"Nike, Sneakers",BRAND NEW,
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-diamond-white-black/,Air Jordan 1 Low Diamond White/Black,"20,999.00",Jordans,11,N/A,"Jordans, Sneakers",BRAND NEW,
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-coconut-milk/,Air Jordan 1 Mid Coconut/Milk,"19,999.00",Jordans,11,N/A,"Jordans, Sneakers",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2022/02/15.png ,
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-vintage-black/,Nike Dunk High &#8220;Vintage Black&#8221;,₹ 2099900,Nike,"[6, 9]",N/A,"Nike, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2022/02/women-s-dunk-high-vintage-black-dq8581-100-release-date.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-diamond-white-black/,Air Jordan 1 Low Diamond White/Black,₹ 2099900,Jordans,"[7, 8, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-1-low-se-black-and-white-dh6931-001-release-date.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-coconut-milk/,Air Jordan 1 Mid Coconut/Milk,₹ 1999900,Jordans,"[8, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW &nbsp;,"https://www.copunderdog.com/wp-content/uploads/2022/02/15.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/nut.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/coconut.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/15.png ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/nut.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/coconut.jpg"
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-white-curry/,Air Jordan 1 Low White Curry,"17,999.00",Jordans,8,N/A,"Jordans, Sneakers",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2022/02/35.png ,
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-white-curry/,Air Jordan 1 Low White Curry,₹ 1799900,Jordans,[8],N/A,"Jordans, Sneakers",BRAND NEW &nbsp;,"https://www.copunderdog.com/wp-content/uploads/2022/02/35.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/SW.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/35.png ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/SW.jpg"
-https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foamrunner-vermillion/,Adidas Yeezy Foamrunner Vermillion,"20,999.00",Yeezy,8,N/A,"Sneakers, Yeezy",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2021/11/cah-sticker.jpg ,
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foamrunner-vermillion/,Adidas Yeezy Foamrunner Vermillion,₹ 2099900,Yeezy,[8],N/A,"Sneakers, Yeezy",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2021/11/cah-sticker.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/17552689_36584948_1000.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/cah-sticker.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/17552689_36584948_1000.jpg"
-https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foam-rnnr-mx-sand-grey/,Adidas Yeezy Foam RNNR MX Sand Grey,"22,500.00",Yeezy,9,N/A,"Sneakers, Yeezy","BRAND NEW
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foam-rnnr-mx-sand-grey/,Adidas Yeezy Foam RNNR MX Sand Grey,₹ 2250000,Yeezy,"[8, 9]",N/A,"Sneakers, Yeezy","BRAND NEW
 IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-24-at-6.40.21-PM.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/adidas-yeezy-yeezy-foam-runner-mx-sand-grey_17714351_37149699_2048-600x360-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-24-at-6.40.21-PM.jpeg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/adidas-yeezy-yeezy-foam-runner-mx-sand-grey_17714351_37149699_2048-600x360-1.jpg"
-https://www.copunderdog.com/shop/sneakers/nike-dunk-low-archeo-pink/,Nike Dunk Low Archeo Pink,"19,999.00",Sneakers,6,N/A,,"BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/frame-skate-x-nike-sb-dunk-low-habibi/,Frame Skate x Nike SB Dunk Low “Habibi”,"89,999.00",Sneakers,8,N/A,,"BRAND NEW
+https://www.copunderdog.com/shop/sneakers/nike-dunk-low-archeo-pink/,Nike Dunk Low Archeo Pink,₹ 1999900,Sneakers,"[5, 6]",N/A,,BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/arch-pink.jpg
+https://www.copunderdog.com/shop/sneakers/frame-skate-x-nike-sb-dunk-low-habibi/,Frame Skate x Nike SB Dunk Low “Habibi”,₹ 8999900,Sneakers,[8],N/A,,"BRAND NEW
 IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/Frame-Skate-x-Nike-SB-Dunk-Low-Habibi-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/Frame-Skate-x-Nike-SB-Dunk-Low-Habibi-Feature.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/Frame-Skate-x-Nike-SB-Dunk-Low-Habibi-2.jpg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/Frame-Skate-x-Nike-SB-Dunk-Low-Habibi-Feature.jpg"
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-og-starfish/,Air Jordan 1 Low OG Starfish,"25,000.00",Jordans,8,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-particle-grey-gym-red/,Air Jordan 1 Mid Particle Grey / Gym Red,"17,999.00 – ₹ 20,999.00",Jordans,10,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/nike/nike-air-force-1-low-white-lx-pendant-lucky-charms/,Nike Air Force 1 Low White LX Pendant “Lucky Charms”,"14,000.00",Nike,7.5,N/A,"Bae Section, Nike, Sneakers",BRAND NEW,
-https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-prm-cider/,Nike dunk low PRM “Cider”,"19,999.00",Nike,7,N/A,"Nike, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-se-barcelona-cyber-teal/,Air Jordan 1 Low SE Barcelona / Cyber Teal,"14,999.00",Jordans,11,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/nike-dunk-low-court-purple/,Nike Dunk Low Court Purple,"20,999.00",Jordans,10,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/dunk-low-wolf-grey/,Nike Dunk Low Wolf Grey Pure Platinum,"19,999.00 – ₹ 22,000.00",Jordans,10,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-familia/,Air Jordan 1 Mid Familia,"15,999.00",Jordans,11,N/A,"Jordans, Sneakers","BRAND NEW
-IN STORE READY TO SHIP",
-https://www.copunderdog.com/shop/sneakers/nike/parra-x-nike-sb-dunk-low/,Parra x Nike Sb Dunk Low “Abstract Art”,"40,999.00 – ₹ 42,999.00",Nike,9.5,N/A,"Nike, Sneakers","BRAND NEW
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-og-starfish/,Air Jordan 1 Low OG Starfish,₹ 2500000,Jordans,[8],N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2021/11/starfish-1.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-particle-grey-gym-red/,Air Jordan 1 Mid Particle Grey / Gym Red,₹ 1799900,Jordans,"[6, 7, 8, 9, 10]",N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2022/02/38a3aff30db854dbfcaedce2be896613_1627491394.jpeg
+https://www.copunderdog.com/shop/sneakers/nike/nike-air-force-1-low-white-lx-pendant-lucky-charms/,Nike Air Force 1 Low White LX Pendant &#8220;Lucky Charms&#8221;,₹ 1400000,Nike,"[4.5, 5.5, 6.5, 7.5]",N/A,"Bae Section, Nike, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2022/02/14.png
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-prm-cider/,Nike dunk low PRM &#8220;Cider&#8221;,₹ 1999900,Nike,[7],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/dunk-low-cider-release-date.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-se-barcelona-cyber-teal/,Air Jordan 1 Low SE Barcelona / Cyber Teal,₹ 1499900,Jordans,"[7, 8, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/16.png
+https://www.copunderdog.com/shop/sneakers/jordans/nike-dunk-low-court-purple/,Nike Dunk Low Court Purple,₹ 2099900,Jordans,"[7, 8, 9, 10]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/dunk-low-championship-court-purple-dd1391-104-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/dunk-low-wolf-grey/,Nike Dunk Low Wolf Grey Pure Platinum,₹ 1999900,Jordans,"[7, 8, 10]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/dunk-low-retro-pure-platinum-dj6188-001-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-familia/,Air Jordan 1 Mid Familia,₹ 1599900,Jordans,"[10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-1-mid-siempre-familia-dn4904-001-release-date.jpeg
+https://www.copunderdog.com/shop/sneakers/nike/parra-x-nike-sb-dunk-low/,Parra x Nike Sb Dunk Low &#8220;Abstract Art&#8221;,₹ 4099900,Nike,"[8, 9.5]",N/A,"Nike, Sneakers","BRAND NEW
 IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/images-25.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/images-26.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/images-25.jpeg ,
 https://www.copunderdog.com/wp-content/uploads/2022/02/images-26.jpeg"
-https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-green-glow-slide/,Adidas Yeezy Green Glow Slide,"18,999.00",Yeezy,10,N/A,"Adidas, Yeezy","Constructed from bright Glow Green EVA foam, The Yeezy Slide Glow Green provides lightweight durability with a bright colour scheme to accent the shape. Coupled with grooves on the underside for traction and grip makes for the perfect set of slides for both enthusiasts and newbies alike.",
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-green-glow-slide/,Adidas Yeezy Green Glow Slide,₹ 1899900,Yeezy,"[8, 9, 10]",N/A,"Adidas, Yeezy"," style=""text-align: center"">Constructed from bright Glow Green EVA foam, The Yeezy Slide Glow Green provides lightweight durability with a bright colour scheme to accent the shape. Coupled with grooves on the underside for traction and grip makes for the perfect set of slides for both enthusiasts and newbies alike.",https://www.copunderdog.com/wp-content/uploads/2022/02/GREEN-GLOW.jpg
+https://www.copunderdog.com/shop/sneakers/nike/off-white-dunk-low-lot-28/,Off-White Dunk Low Lot 28,₹ 4999900,Nike,[8],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/02/18.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot22.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot222.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/18.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot22.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/lot222.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/air-force-1-supreme/,Air Force 1 Supreme,₹ 2799900,Nike,[8],N/A,"Nike, Sneakers",BARND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2020/11/air-force-1-low-supreme-black.jpg.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-sired-red/,Air Jordan 1 Mid Sired Red,₹ 2000000,Jordans,[9.5],N/A,,BRAND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/24.png
+https://www.copunderdog.com/shop/sneakers/fear-of-god-essentials-21-harvest-tee-20u20/,Fear Of God Essentials 21 Harvest tee 20U20,₹ 650000,Sneakers,"['S', 'M']",N/A,,,https://www.copunderdog.com/wp-content/uploads/2021/10/images-39.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-aluminum/,Air Jordan 1 Low Aluminum,₹ 1999900,Jordans,"[4, 5, 6]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/42.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-union-guava-ice/,Air Jordan 4 Union Guava Ice,₹ 8599900,Jordans,[9],N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/47.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-sesame/,Air Jordan 1 Low Sesame,₹ 1599900,Jordans,[5.5],N/A,"Jordans, Sneakers",Brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2022/02/44.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-23.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-22.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-21.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/44.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-23.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-22.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-21.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-artic-pink/,Air Jordan 1 Low Artic Pink,₹ 1299900,Jordans,"[5, 5.5, 6]",N/A,"Jordans, Sneakers",Brand new in store ready to ship,https://www.copunderdog.com/wp-content/uploads/2022/02/45.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-signal-orange/,Air Jordan 1 Mid Signal Orange,₹ 2199900,Jordans,"[3.5, 6]",N/A,"Bae Section, Jordans, Sneakers",Brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2022/02/40.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/air-jordan-1-mid-turf-orange-6.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/DD6834-802_sivasdescalzo-Jordan-Air_Jordan_1_Mid_Turf_Orange_-1617967583-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/40.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/air-jordan-1-mid-turf-orange-6.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/DD6834-802_sivasdescalzo-Jordan-Air_Jordan_1_Mid_Turf_Orange_-1617967583-4.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-unc-black/,Air Jordan 1 Low Unc black,₹ 1850000,Jordans,"[5, 8]",N/A,"Jordans, Sneakers","Brand new
+in store ready to ship","https://www.copunderdog.com/wp-content/uploads/2022/02/43.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/1-1-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-20.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/43.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/1-1-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-20.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-retro-high-og-defiant/,Air Jordan 1 Retro High OG &#8220;Defiant&#8221;,₹ 1799900,Jordans,"[9, 11]",N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/71ZC2OeUnIL._UL1500_.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-i-defiant-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/71ZC2OeUnIL._UL1500_.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/air-jordan-i-defiant-release-date.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-iron-ore-atmosphere/,Air Jordan 1 Mid Iron Ore / Atmosphere,₹ 1850000,Jordans,[6.5],N/A,"Jordans, REPBULIC DAY SALE, Sneakers","Brand new
+in store ready to ship","https://www.copunderdog.com/wp-content/uploads/2022/01/air-jordan-1-mid-se-shoe-34DtkG-1.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-19.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-18.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/air-jordan-1-mid-se-shoe-34DtkG-1.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-19.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-18.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-madder-root/,Air Jordan 1 Low Madder Root,₹ 1600000,Jordans,"[4.5, 6, 6.5]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/02/41.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-siren-red/,Air Jordan 1 Low Siren Red,₹ 1599900,Jordans,[9],N/A,"Jordans, Sneakers",,"https://www.copunderdog.com/wp-content/uploads/2021/08/siren.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/08/siren-3.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-panda/,Nike Dunk Low Panda,₹ 2400000,Nike,"[4, 6, 7, 8, 8.5, 9, 10, 11, 12]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/06/panda.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-kwondo-1-gdragon-peaceminusone-triple-white-copy/,Nike Kwondo 1 Gdragon Peaceminusone Triple White,₹ 1450000,Nike,"[5, 6, 6.5, 7.5, 8, 8.5, 9, 9.5, 10, 12]",N/A,"Nike, REPBULIC DAY SALE, Sneakers",Brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2021/12/kwondo.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7d8464b.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e40f4c.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e16822.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7dcbe5c.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e93e0f.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e2bfce.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7df2c2a.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7da1426.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e74125.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7de14cc.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7db83f9.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e4e817.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7ebf9ff.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e60987.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e8256b-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/kwondo.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7d8464b.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e40f4c.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e16822.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7dcbe5c.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e93e0f.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e2bfce.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7df2c2a.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7da1426.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e74125.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7de14cc.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7db83f9.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e4e817.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7ebf9ff.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e60987.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/nike-kwondo1-peaceminusone-whitewhite-white-619d0c7e8256b-1.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-bred-toe/,Air Jordan 1 Low Bred Toe,₹ 1999900,Jordans,"[6, 7, 8, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW 1-2 WEEKS DELIVERY PERIOD,https://www.copunderdog.com/wp-content/uploads/2022/01/Nike-Flyknit-Air-Max-Mens-Running-Shoe-553558_612_A_PREM.jpg.png
+https://www.copunderdog.com/shop/sneakers/supreme-skitles/,SUPREME SKITLES,₹ 250000,Sneakers,[],,,"BRAND NEW IN STORE READY TO SHIP
+EXPIRES MARCH 2023",https://www.copunderdog.com/wp-content/uploads/2022/01/202111263feffcd999984df9aa0a93bba4ebfdf2.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-tropical-twist/,Air Jordan 1 Low Tropical Twist,₹ 1750000,Jordans,[9],N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2022/02/46.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/giay-nike-air-jordan-1-low-tropical-twist-o-ck3022-301.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/46.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/giay-nike-air-jordan-1-low-tropical-twist-o-ck3022-301.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-arctic-orange/,Air Jordan 1 Mid Arctic Orange,₹ 1799900,Jordans,[9.5],N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2022/01/images-58.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-thunder/,Air Jordan 4 Retro Thunder Red,₹ 2499900,Jordans,"[6, 7, 8, 9, 10, 11, 12]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/01/COP-UNDERDOG.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-fire-red/,Air Jordan 4 Fire Red,₹ 3499900,Jordans,[8],N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2022/01/images-13.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-14.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-13.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/images-14.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-canyon-rust-copy/,Air Jordan 1 Mid Canyon Rust,₹ 2599900,Jordans,[6.5],N/A,"Jordans, Sneakers",brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2021/12/40.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26cc26c8.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d2a5be.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d1db48.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d129ae.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26cde731.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d365cf.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d50fa7.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/40.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26cc26c8.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d2a5be.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d1db48.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d129ae.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26cde731.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d365cf.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-mid-particle-beigeblack-canyon-rust-sail-6017e26d50fa7.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-canyon-rust/,Air Jordan 1 Low Canyon Rust,₹ 2399900,Jordans,[6.5],N/A,"Jordans, Sneakers",brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2021/12/41.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854bb89ff.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c32c4d.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c26708.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c1b056.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c4f140.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/41.png ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854bb89ff.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c32c4d.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c26708.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c1b056.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2022/01/wmns-air-jordan-1-low-canyon-rustblack-purple-smoke-602b854c4f140.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-handcrafted/,Air Jordan 1 High &#8220;Craft&#8221; Handcrafted,₹ 2599900,Jordans,"[9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2021/12/43.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-armoury-navy/,Air Jordan 1 Low Armoury Navy,₹ 2100000,Jordans,"[7, 8, 9]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/01/armoury-navy.webp
+https://www.copunderdog.com/shop/sneakers/nike/dunk-low-unc/,Nike Dunk Low University Blue,₹ 2999900,Nike,"[8, 9]",N/A,"Nike, REPBULIC DAY SALE, Sneakers",BRAND NEW IN-STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/01/images-55.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-metallic-red/,Air Jordan 1 Mid Metallic Red,₹ 2299900,Jordans,[6],N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2022/01/mid-red-e1641365557225.jpg
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-350-v2-mx-rock/,Yeezy Boost 350 V2 Mx Rock,₹ 3099900,Yeezy,"[6.5, 7, 8, 8.5, 9, 9.5, 10]",N/A,"Sneakers, Yeezy"," style=""text-align: center"">The adidas Yeezy Boost 350 V2 MX Rock features a marbled black, grey, and brown Primeknit upper styled in a pattern similar to the other pairs in the MX collection, like most other 350s the pair features a cushioned Boost sole, heel tab, and mesh side stripe completing the iconic design.","https://www.copunderdog.com/wp-content/uploads/2022/02/19.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/rock-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/rock-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2022/02/19.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/rock-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/rock-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-utility-black/,Air Jordan 1 Low Utility Black,₹ 1599900,Jordans,"[4, 4.5, 5, 5.5, 6, 6.5, 7, 9]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-back_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-detail_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-detail-2_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-back_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-detail_w490.jpg.webp ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-low-se-utility-white-black-dd9337-106-detail-2_w490.jpg.webp"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-og-patent-bred/,Air Jordan 1 High OG &#8221; Patent Bred &#8220;,₹ 3299900,Jordans,"[6, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11, 12]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-patent-bred-555088-063-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/highxtar-ya-estan-aqui-las-nike-air-jordan-1-high-og-patent-bred-destacada.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-patent-bred-555088-063-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/FGHhqTuXoAQ3kYh.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-patent-bred-555088-063-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/highxtar-ya-estan-aqui-las-nike-air-jordan-1-high-og-patent-bred-destacada.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/air-jordan-1-patent-bred-555088-063-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/FGHhqTuXoAQ3kYh.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-halloween/,Nike Dunk Low Halloween,₹ 2099900,Nike,"[9, 10, 11]",N/A,"Nike, REPBULIC DAY SALE, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2021/12/dunk-low-halloween-dd3357-100-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/images.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/dunk-low-halloween-dd3357-100-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/images.jpeg"
+https://www.copunderdog.com/shop/sneakers/nike/off-white-dunk-low-lot-23/,Off-White Dunk Low Lot-23,₹ 6000000,Nike,[7],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/12/PHOTO-2021-12-28-11-17-53-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/lot.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/lot-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/PHOTO-2021-12-28-11-17-53-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/lot.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/12/lot-2.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-beluga-reflective/,Adidas Yeezy Boost 350 V2 Beluga (Reflective),₹ 3599900,Yeezy,"[5, 5.5, 6, 6.5, 7.5, 8, 8.5, 10]",N/A,"REPBULIC DAY SALE, Sneakers, Yeezy"," style=""text-align: center""><span style=""font-weight: 400"">One of Yeezy&#8217;s most celebrated designs received a reflective makeover with the adidas Yeezy Boost 350 V2 Beluga Reflective. Building off of the original Beluga colorway by adding reflective qualities and speckled orange accents to its Primeknit upper, the 2021 iteration features signature details like a Boost sole and orange side stripe that complete the design.</span",https://www.copunderdog.com/wp-content/uploads/2021/12/PHOTO-2021-12-28-11-17-53.jpg
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-slide-ochre/,Adidas Yeezy Slide Ochre,₹ 1250000,Yeezy,"[8, 9]",N/A,"Sneakers, Yeezy"," style=""text-align: center""><span style=""font-weight: 400"">The Adidas Yeezy Slide Ochre is constructed entirely of an EVA foam composite in a monochromatic colour. </span></p>
+<p style=""text-align: center""><span style=""font-weight: 400"">A soft footbed offers extreme comfort making it the perfect pair for daily wear. Easily the most recognizable slide this year. </span",https://www.copunderdog.com/wp-content/uploads/2021/12/YEEZY_SLIDE_OCHRE_Left_Social_3_2500x1878_24e120fc-95a7-4b7d-9e78-66dc91a0f9b0_449x.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-tropical-twist/,Air Jordan 1 Mid Tropical Twist,₹ 1799900,Jordans,"[8.5, 9.5]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/12/tropical.jpg
+https://www.copunderdog.com/shop/sneakers/nike-acid-wash-black-dunk-high/,Nike Acid Wash Black Dunk High,₹ 1950000,Sneakers,[6.5],N/A,,"BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2021/12/images-42.jpeg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-south-beach/,Air Jordan 1 Mid SE South Beach,₹ 1799900,Jordans,"[7, 8, 9, 10, 11, 12]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/12/south-beach.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-mocha/,Air Jordan 1 Low Mocha / Dark Chocolate,₹ 2299900,Jordans,"[8, 9, 10]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/11/mocha-low.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-6.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-7.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-8.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/mocha-low.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-6.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-7.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/images-8.jpeg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-bordeaux/,Air Jordan 1 High Bordeaux,₹ 1999900,Jordans,"[6, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",N/A,"Jordans, Sneakers",Brand new delivery in 15 days,"https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-bordeaux-555088-611-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/Air-Jordan-1-High-OG-Bordeaux-555088-611-7.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-bordeaux-555088-611-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/Air-Jordan-1-High-OG-Bordeaux-555088-611-7.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-yeezreel/,Adidas Yeezy Boost 350 V2 Yeezreel,₹ 3599900,Yeezy,[8.5],N/A,"REPBULIC DAY SALE, Sneakers, Yeezy"," style=""text-align: center"">The Yeezy 350 V2 Yeezreel is composed of a neon green upper and with black and grey accents ingrained in the upper. A translucent Yeezreel Boost cushioned sole and side stripe completes the design. Unlike its reflective counterpart, this pair boasts a heel tab for added character",https://www.copunderdog.com/wp-content/uploads/2021/11/images-34.jpeg
+https://www.copunderdog.com/shop/sneakers/nike/sacai-x-nike-vaporwaffle-black/,Sacai X Nike Vaporwaffle Sesame,₹ 3950000,Nike,"[8, 10.5]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/04/nike-x-sacai-vaporwaffle-sesame-and-blue-void-release-date.jpg
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-500-clay-brown/,Adidas Yeezy 500 Clay Brown,₹ 1979900,Yeezy,[10],N/A,"Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy 500 Clay Brown presents an array of materials commonly found in hiking shoes designed to withstand the great outdoors. Constructed of a Clay Brown mesh upper with leather and suede overlays that wrap around the silhouette. A sturdy adiPRENE sole adds a responsive feel to the trail-ready chunky design",https://www.copunderdog.com/wp-content/uploads/2021/11/clay-brown.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-mocha/,Air Jordan 1 Mid Mocha Chocolate,₹ 1699900,Jordans,"[7, 8, 8.5, 9, 10, 11]",N/A,"Jordans, Sneakers"," style=""text-align: left"">IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2021/11/IMG-20211113-WA0003.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ-2.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/IMG-20211113-WA0003.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/11/air-jordan-1-mid-se-shoes-7fj1ZJ-2.png"
+https://www.copunderdog.com/shop/sneakers/nike/dunk-low-michigan/,Nike Dunk Low Michigan,₹ 1799900,Nike,"[6, 7, 8, 9, 10, 11]",N/A,"Nike, Sneakers",BRAND NEW &nbsp;,https://www.copunderdog.com/wp-content/uploads/2021/11/michigan.jpg
+https://www.copunderdog.com/shop/sneakers/air-jordan-1-low-plum/,Air Jordan 1 Low Plum,₹ 1299900,Sneakers,"[4, 5, 6]",N/A,"Bae Section, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/DC7268-500-1-850x850-1.jpg
+https://www.copunderdog.com/shop/sneakers/adidas/yeezy-foam-rnnr-ochre/,Yeezy Foam Rnnr Ochre,₹ 2250000,Adidas,"[8, 9, 10, 11]",N/A,"Adidas, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/OCHRE.jpg
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-350-v2-mx-oat/,Adidas Yeezy Boost 350 V2 MX Oat,₹ 2799900,Yeezy,"[6.5, 8, 8.5, 9]",N/A,"Bae Section, REPBULIC DAY SALE, Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy Boost 350 V2 MX Oat features a yellow, orange, and blue swirl-patterned Primeknit upper much like the other pairs in the MX pack, with a mesh side stripe and yellow heel tab. From there, a semi-translucent Boost midsole and pale yellow rope laces complete the design of the recently",https://www.copunderdog.com/wp-content/uploads/2021/10/Adobe_Post_20211025_1815350.042608156369256744.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-3-denim/,Air Jordan 3 Denim,₹ 2245000,Jordans,[11],N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/denim.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-metallic-orange/,Air Jordan 4 Metallic Orange,₹ 3999900,Jordans,[11],N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE REAY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/jordan-4-red.jpg
+https://www.copunderdog.com/shop/sneakers/nike/lebron-james-fairfax/,Lebron James Fairfax,₹ 2420000,Nike,[10],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/fairfax.jpg
+https://www.copunderdog.com/shop/sneakers/nike/air-force-1-high-wheat/,Air Force 1 High Wheat,₹ 1725000,Nike,[11],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO STORE,https://www.copunderdog.com/wp-content/uploads/2021/10/Af-1-wheat.jpg
+https://www.copunderdog.com/shop/sneakers/nike/dunk-low-golden-rod/,Nike Dunk Low Goldenrod,₹ 1299900,Nike,"[7, 8, 9, 10, 11]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP &nbsp;,https://www.copunderdog.com/wp-content/uploads/2021/10/golden-rod.jpg
+https://www.copunderdog.com/shop/sneakers/nike/air-fear-of-god-triple-black/,Air Fear Of God &#8220;Triple Black&#8221;,₹ 6500000,Nike,[10],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/35.png
+https://www.copunderdog.com/shop/sneakers/paris-saint-germain-x-nike-psg-full-sleeve/,Paris Saint Germain x Nike PSG Full sleeve,₹ 499900,Sneakers,['L'],N/A,,BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/10/images-19.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/10/images-20.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/10/images-19.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/10/images-20.jpeg"
+https://www.copunderdog.com/shop/sneakers/nike/dunk-low-next-to-nature-sail/,Dunk Low Next To Nature Sail,₹ 1499900,Nike,"[4.5, 6]",N/A,"Bae Section, Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/next-to-nature-sail.jpg
+https://www.copunderdog.com/shop/sneakers/nike/dunk-low-next-to-nature-coral/,Dunk Low Next To Nature Coral,₹ 1599900,Nike,[5.5],N/A,"Bae Section, Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/coral.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-artic-pink/,Air Jordan 1 Mid Artic Pink,₹ 1850000,Jordans,"[4.5, 5, 5.5, 6]",N/A,"Bae Section, Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/pink-mid.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-taupe-haze/,Air Jordan 4 Taupe Haze,₹ 3399900,Jordans,"[8.5, 9, 9.5]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/images-28.jpeg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-panda/,Nike Dunk High Panda,₹ 1999900,Nike,"[2.5, 3, 5, 6, 7, 8]",N/A,"Bae Section, Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/10/41.png
+https://www.copunderdog.com/shop/sneakers/nike/dunk-high-ambush-flash-lime/,Dunk High Ambush Flash Lime,₹ 2700000,Nike,"[7, 8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW 7-10 DAYS DELIVERY,https://www.copunderdog.com/wp-content/uploads/2021/10/43.png
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-carbon/,Adidas Yeezy Boost 350 V2 Carbon,₹ 3599900,Yeezy,[8.5],N/A,"Sneakers, Yeezy"," style=""text-align: center""><span data-sheets-value=""{&quot;1&quot;:2,&quot;2&quot;:&quot;The black and grey primeknit upper of the Yeezy 350 v2 Carbon makes for the perfect sneaker in the yeezy lineup. With a contrasting gum sole and infinity lacing. The Carbons feature all the iconic traits of a 350, boost sole, lateral side stripe and its legendary silhouette. However, this pair forgoes the heel tab found in most 350s, resulting in a cleaner more sculpted look&quot;}"" data-sheets-userformat=""{&quot;2&quot;:15107,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:2368548},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:10}"">The black and grey primeknit upper of the Yeezy 350 v2 Carbon makes for the perfect sneaker in the yeezy lineup. With a contrasting gum sole and infinity lacing. The Carbons feature all the iconic traits of a 350, boost sole, lateral side stripe and its legendary silhouette. However, this pair forgoes the heel tab found in most 350s, resulting in a cleaner more sculpted look</span",https://www.copunderdog.com/wp-content/uploads/2021/09/34.png
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-mono-ice/,Adidas Yeezy Boost 350 V2 Mono Ice,₹ 3300000,Yeezy,"[9, 9.5]",N/A,"Sneakers, Yeezy"," style=""text-align: center""><span data-sheets-value=""{&quot;1&quot;:2,&quot;2&quot;:&quot;The adidas Yeezy 350 V2 Mono Ice is one of three from the Mono pack. Each sneaker’s upper is constructed from a new monofilament mesh in Ice blue that exposes the model’s inner cage lining. The Mono pack brings back the heel’s pull tab design on each pair. To finish it out, a familiar Boost sole is added for comfort for the wearer.&quot;}"" data-sheets-userformat=""{&quot;2&quot;:15107,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:2368548},&quot;15&quot;:&quot;SuisseIntl-Regular, sans-serif&quot;,&quot;16&quot;:10}"">The adidas Yeezy 350 V2 Mono Ice is one of three from the Mono pack. Each sneaker’s upper is constructed from a new monofilament mesh in Ice blue that exposes the model’s inner cage lining. The Mono pack brings back the heel’s pull tab design on each pair. To finish it out, a familiar Boost sole is added for comfort for the wearer.</span",https://www.copunderdog.com/wp-content/uploads/2021/09/COP-UNDERDOG.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-ghost-green/,Air Jordan 1 Low Ghost Green,₹ 1999900,Jordans,"[8, 10.5]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/09/ghost-green.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-championship-red/,Nike Dunk Low Championship Red,₹ 1499900,Nike,"[7, 8, 9, 10, 11]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/09/champ.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-black-multi-camo/,Nike Dunk Low Black Multi Camo,₹ 1499900,Nike,"[7, 8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/09/camo-1.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-midnight-navy/,Nike Dunk High Midnight Navy,₹ 1499900,Nike,"[7, 7.5, 8, 9, 9.5, 10]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/09/navy.jpg
+https://www.copunderdog.com/shop/sneakers/nike/greatfull-dead-x-nike-sb-dunk-low/,Graetful Dead x Nike Sb Dunk Low,₹ 8099900,Nike,"[8, 9.5]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210115_1442330.011665277207279168.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15485133_2949455gfg4_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_28477478_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_28477480_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210115_1442330.011665277207279168.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15485133_2949455gfg4_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_28477478_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/nike-sb-dunk-low-grateful-dead-yellow-bear_15645873_28477480_1000.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-free-99-white/,Nike Dunk Low Free 99 White,₹ 1899900,Nike,"[7, 8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2021/09/37.png
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-soot-slide/,Adidas Yeezy Soot Slide,₹ 1499900,Yeezy,"[3, 4, 6, 7, 8, 9]",N/A,"Sneakers, Yeezy"," style=""text-align: center""><span style=""font-weight: 400"">Constructed with a durable EVA foam, the Yeezy Slide Soot combines the comfort of the slide with the subtle elegance of the soot colour for a bold and classy slide perfect for all wardrobes. Strategic grooves on the underfoot enable for grip and traction on the sole</span",https://www.copunderdog.com/wp-content/uploads/2021/09/Adobe_Post_20210909_1443100.8426970740768428.png
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-slide-pure-2/,Adidas Yeezy Slide Pure,₹ 1450000,Yeezy,"[5, 6, 7, 8, 9, 10, 11, 12]",N/A,"Sneakers, Yeezy",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2021/04/13.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/adidas-yeezy-yeezy-slide-pure_16811347_33430793_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/GZ5554_TPP_eCom.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/GZ5554_FR_eCom.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/13.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/adidas-yeezy-yeezy-slide-pure_16811347_33430793_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/GZ5554_TPP_eCom.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/GZ5554_FR_eCom.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/air-force-1-shibuya/,Nike Air Force 1 Low Shibuya Edition,₹ 2150000,Nike,[9],N/A,"Nike, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/09/Adobe_Post_20210909_1445120.4868463596501996.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-pollen/,Air Jordan 1 High Pollen,₹ 1999900,Jordans,"[7, 7.5, 8, 8.5, 9, 10]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/Adobe_Post_20210831_1048430.5389968649279276.png
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-350v2-light/,Adidas Yeezy Boost 350 V2 Light,₹ 3099900,Yeezy,"[8, 9, 9.5]",N/A,"Sneakers, Yeezy"," style=""text-align: center""><span style=""font-weight: 400""> The Yeezy Boost 350 V2 Light arrives in what appears to be a clean triple white color palette, but when exposed to UV light, the white Primeknit upper changes colours to a light pink and its mesh side stripe to dark yellow. An off-white Boost sole and canvas heel tab add the finishing touches.</span",https://www.copunderdog.com/wp-content/uploads/2021/08/Adobe_Post_20210828_2240010.9402742946148206.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-lightning-yellow/,Air Jordan 4 Lightning Yellow,₹ 2499900,Jordans,"[5.5, 6, 7, 8, 9]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/lightning-4.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-x-sacai-blazer-low-british-tan/,Nike X Sacai Blazer Low British Tan,₹ 1599900,Nike,[8],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/39-1.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-seafoam/,Air Jordan 1 High Seafoam,₹ 2999900,Jordans,[5],N/A,"Jordans, REPBULIC DAY SALE, Sneakers",!--more--,https://www.copunderdog.com/wp-content/uploads/2021/08/Adobe_Post_20210819_2124070.9103755482347098.png
+https://www.copunderdog.com/shop/sneakers/nike/ambush-x-nike-dunk-high-black/,Ambush x Nike Dunk High Black,₹ 5999900,Nike,[11.5],N/A,"Nike, Sneakers","BRAND NEW
+IN STORE READY TO SHIP",https://www.copunderdog.com/wp-content/uploads/2021/08/Adobe_Post_20210818_1651380.13355480449235302.png
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-x-bad-bunny-forum-low-core-black/,Adidas x Bad Bunny Forum Low Core Black,₹ 2200000,Adidas,"[7, 10]",N/A,"Adidas, Sneakers",x,https://www.copunderdog.com/wp-content/uploads/2021/08/bad-bunny.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/aie-jordan-1-mid-habanero-red-white/,Air Jordan 1 Mid Habanero Red/White,₹ 1499900,Jordans,"[4, 6, 6.5, 7, 8, 9]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/40-1.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-chicago-white-toe/,Air Jordan 1 Mid Chicago White Toe,₹ 2999900,Jordans,"[4.5, 5, 6, 10]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/white-toe.jpg
+https://www.copunderdog.com/shop/sneakers/jordans/nike-ld-waffle-sacai-blue-multi/,Nike LD Waffle Sacai Blue Multi,₹ 6500000,Jordans,[9.5],N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/34.png
+https://www.copunderdog.com/shop/sneakers/nike/nike-ld-waffle-sacai-black-nylon/,Nike LD Waffle Sacai Black Nylon,₹ 3500000,Nike,[8.5],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/08/33.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-smoke-grey/,Air Jordan 1 Mid Smoke Grey,₹ 2999900,Jordans,[9],N/A,"Jordans, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2021/08/36.png
+https://www.copunderdog.com/shop/sneakers/jordans/nike-air-jordan-1-low-twine-orange/,Nike Air Jordan 1 Low Twine Orange,₹ 999900,Jordans,"[4, 5, 6, 6.5, 7.5, 8, 9, 9.5]",N/A,"Jordans, Sneakers",BRAND NEW,https://www.copunderdog.com/wp-content/uploads/2021/07/COP-UNDERDOG-11.png
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-pharrell-williams-human-race-nmd-oreo/,Adidas Pharrell Williams Human Race Nmd Oreo,₹ 2185000,Adidas,[7],N/A,"Adidas, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/07/oreo-1.jpg
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-pharrell-williams-human-race-nmd-black/,Adidas Pharrell Williams Human Race Nmd Black,₹ 5000000,Adidas,[8],N/A,"Adidas, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/07/nmd-black.jpg
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-yeezy-powerphase-calabases-core-white/,Adidas Yeezy Powerphase Calabases Core White,₹ 1610000,Adidas,[8],N/A,"Adidas, Sneakers",BRAND NEW IN  STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/07/calab.jpg
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-pharrell-williams-human-race-nmd-blue/,Adidas Pharrell Williams Human Race Nmd Blue,₹ 3450000,Adidas,[7],N/A,"Adidas, Sneakers",PADS IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/07/nmd-blue.jpg
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-curry/,Nike Dunk Low Curry,₹ 3200000,Nike,[8],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,https://www.copunderdog.com/wp-content/uploads/2021/07/7.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-obsidian/,Air Jordan 1 Low Obsidian / UNC,₹ 1999900,Jordans,"[7, 8, 8.5, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/07/obsidian-3.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-boost-350-v2-oreo/,Adidas Yeezy Boost 350 V2 Oreo,₹ 6000000,Yeezy,[8],N/A,"Sneakers, Yeezy"," style=""text-align: center"">The Yeezy Boost 350 V2 ‘Oreo’ features a black Primeknit upper with a white stripe, SPLY 350 branding, and a translucent black midsole housing full-length Boost. Originally debuted as part of the “Core Pack” the 350 Oreo is the easily the most versatile out of them all","https://www.copunderdog.com/wp-content/uploads/2021/06/oreo.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27478084_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27478085_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27477021_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/oreo.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27478084_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27478085_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-boost-350-v2-oreo_12960330_27477021_1000.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-air-max-1-ultra-2-0-le/,Nike Air Max 1 Ultra 2.0 LE,₹ 1900000,Nike,[8],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/06/air-max.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478053_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478054_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478056_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-max.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478053_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478054_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/nike-air-max-1-og-anniversary_12960249_27478056_1000.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-ko-1-chicago/,Air Jordan KO 1 Chicago,₹ 2499900,Jordans,"[7, 8, 8.5, 9, 10]",N/A,"Jordans, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2021/06/aj.ko_.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/aj.ko_.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/ko-2.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-450-dark-slate/,Adidas Yeezy 450 Dark Slate,₹ 3099900,Yeezy,"[8, 8.5]",N/A,"Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy 450 Dark Slate features a simplified two-piece construction with a dark Slate foam sole that clasps a black sock-like Primeknit upper. Thick laces and a wrap around sole complete the monochromatic yet bold sneaker","https://www.copunderdog.com/wp-content/uploads/2021/06/dark-slate.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/image-2-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/hypebeast.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/static.highsnobiety.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/dark-slate.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/image-2-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/hypebeast.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/static.highsnobiety.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-mid-corduroy/,Air Jordan 1 Mid Corduroy,₹ 1499900,Jordans,"[4.5, 5.5, 6, 7]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/06/corduroy-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8-2.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/corduroy-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8-2.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/air-jordan-1-mid-se-shoe-bMwPf8.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-shadow-2-0/,Air Jordan 1 Low Particle Grey / Shadow 2.0,₹ 1999900,Jordans,"[7, 8, 9, 9.5, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-2.0.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-2.0.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/shadow-3.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-700-v3-azael/,Adidas Yeezy 700 V3 Azael,₹ 5500000,Yeezy,[8],N/A,"Sneakers, Yeezy"," style=""padding-left: 40px;text-align: center""><span style=""font-weight: 400"">The third incarnation of the Yeezy 700 is one of the most sophisticated designs to date with an RPU cage that glows in the dark and an ortholite sockliner. The sneaker also features 3M reflective details on the toe. The bulky outsole completes the pair with a semi exposed boost outsole that provides the comfort that the brand is known for </span","https://www.copunderdog.com/wp-content/uploads/2021/06/azael-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-v3-azael_14904925_27540091_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-v3-azael_14904925_27540092_1000.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/554426.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/azael-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-v3-azael_14904925_27540091_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-v3-azael_14904925_27540092_1000.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/554426.png"
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-boost-350-v2-mono-mist/,Adidas Yeezy Boost 350 V2 Mono Mist,₹ 2600000,Yeezy,"[6, 8, 8.5, 9, 10, 11, 11.5, 12]",N/A,"Sneakers, Yeezy"," style=""text-align: center"">Letting go of the primeknit upper everyone has grown to love in the 350 silhouette, the new Yeezy 350 v2 Mono Mist features a once piece upper crafted from a mesh like mono filament, with a brown colour palette and translucent side stripe. The Mono Mist is a blood new take on a silhouette that has never failed","https://www.copunderdog.com/wp-content/uploads/2021/06/mono-mist1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-boost-350-V2-mono-mist-GW2871-1x1_0002_Ebene-2-1-e1623139567368.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/GW2871_FR_eCom.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/GW2871_TPP_eCom.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/mono-mist1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-boost-350-V2-mono-mist-GW2871-1x1_0002_Ebene-2-1-e1623139567368.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/GW2871_FR_eCom.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/GW2871_TPP_eCom.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-sb-dunk-low-blue-fury/,Nike SB Dunk Low Blue Fury,₹ 2500000,Nike,"[8, 9]",N/A,"Nike, REPBULIC DAY SALE, Sneakers","BRAND NEW
+IN STORE READY TO SHIP","https://www.copunderdog.com/wp-content/uploads/2021/06/15.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/sb-dunk-low-pro-blue-fury.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/Nike-SB-Dunk-Low-Blue-Fury-BQ6817-400-7.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/Nike-SB-Dunk-Low-Blue-Fury-BQ6817-400-5.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/15.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/sb-dunk-low-pro-blue-fury.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/Nike-SB-Dunk-Low-Blue-Fury-BQ6817-400-7.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/Nike-SB-Dunk-Low-Blue-Fury-BQ6817-400-5.png"
+https://www.copunderdog.com/shop/sneakers/jordans/jordan-1-light-fusion-red/,Air Jordan 1 High Light Fusion Red,₹ 1999900,Jordans,"[6.5, 8, 8.5, 9]",N/A,"Jordans, Sneakers",!--more-->BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2021/04/15-2.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/15-2.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/fusion-red-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-neutral-grey/,Air Jordan 1 High OG Neutral Grey &#8217;85,₹ 4500000,Jordans,"[6.5, 8]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/06/neutral.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/neutral.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/j1-n-grey-2.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-700-mnvn-bright-cyan/,Adidas Yeezy 700 MNVN Bright Cyan,₹ 2200000,Yeezy,"[9, 12.5]",N/A,"Adidas, Yeezy",The adidas Yeezy Boost 700 MNVN Bright Cyan features a nylon upper with reflective “700” graphic on the lateral side along with other reflective details on the upper. The Bright Cyan upper adds a bright dash of colour to the yeezy palette. The chunky 700 silhouette and black midsole complete the look of this sneaker,"https://www.copunderdog.com/wp-content/uploads/2021/06/17.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-mnvn-bright-cyan_16919486_33713495_1000-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-mnvn-bright-cyan_16919486_33713496_1000-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/17.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-mnvn-bright-cyan_16919486_33713495_1000-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/06/adidas-yeezy-yeezy-700-mnvn-bright-cyan_16919486_33713496_1000-1.png"
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-foam-runner-mineral-blue/,Adidas Yeezy Foam Runner Mineral Blue,₹ 2650000,Yeezy,"[5, 6, 8, 9, 10, 11]",N/A,"Bae Section, Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy Foam RNNR Mineral Blue is made of a Mineral Blue foam that blends EVA with harvested algae. Oval cut-outs throughout the upper add ventilation to finish off the design. The dark blue colour palette adds class to an otherwise bold silhouette &nbsp;","https://www.copunderdog.com/wp-content/uploads/2021/05/foam-runner.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33636870_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33635469_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33636871_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/foam-runner.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33636870_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33635469_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/adidas-yeezy-yeezy-foam-runner-mineral-blue_16899608_33636871_1000.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-hyper-cobalt/,Nike Dunk Low Hyper Cobalt,₹ 1299900,Nike,"[7, 8, 8.5, 9, 10, 11]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/05/15.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/nike-dunk-low-retro-hyper-cobalt_16475597_31842980_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/dunk-low-hyper-cobalt-release-date.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/15.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/nike-dunk-low-retro-hyper-cobalt_16475597_31842980_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/dunk-low-hyper-cobalt-release-date.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-shadow-2-0/,Air Jordan 1 High Shadow 2.0,₹ 2999900,Jordans,"[7, 7.5, 8, 9, 9.5, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/05/8.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/8.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/shadow-2.0-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-6-travis-scott-british-khaki-special-box/,Air Jordan 6 Travis Scott &#8220;British Khaki&#8221; &#8211; Special Box,₹ 7500000,Jordans,"[7, 8, 8.5]",N/A,"Bae Section, Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.46-PM.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.37-PM.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.32-PM.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.46-PM.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.37-PM.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Screenshot-2021-05-02-at-8.06.32-PM.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-6-travis-scott-british-khaki/,Air Jordan 6 Travis Scott &#8220;British Khaki&#8221;,₹ 3999900,Jordans,"[7, 8, 8.5, 9, 10, 11]",N/A,"Jordans, Slider, Sneakers"," style=""text-align: center""><strong>BRAND NEW<br />
+IN-STORE READY TO SHIP</strong></p>
+<p style=""text-align: center""","https://www.copunderdog.com/wp-content/uploads/2021/05/COP-UNDERDOG-11.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/image.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/travis-scott-jordan-6-shoes-release-date-DH0690-200-4.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/COP-UNDERDOG-11.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/image.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/05/travis-scott-jordan-6-shoes-release-date-DH0690-200-4.png"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-slide-resin/,Adidas Yeezy Slide Resin,₹ 1799900,Yeezy,"[8, 9, 10]",N/A,"REPBULIC DAY SALE, Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy Slide Resin is made of a full EVA foam unit providing lightweight durability. A neutral ‘Resin’ green colour tone complements the laid back design of the slide. A soft footbed and an outsole with grooves for traction complete the design","https://www.copunderdog.com/wp-content/uploads/2021/04/14.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/adidas-yeezy-slide-resin_15083385_27544561_1000-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/FX0494_5.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/14.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/adidas-yeezy-slide-resin_15083385_27544561_1000-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/FX0494_5.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-4-retro-university-blue/,Air Jordan 4 Retro University Blue,₹ 3999900,Jordans,"[4.5, 5, 6, 7, 8, 9, 10, 11]",N/A,"Bae Section, Jordans, Sneakers",BRAND NEW,"https://www.copunderdog.com/wp-content/uploads/2021/04/5.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/J4-UNC.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/j4-unc-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/j4-unc-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/5.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/J4-UNC.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/j4-unc-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/j4-unc-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-hyper-royal/,Air Jordan 1 High Hyper Royal,₹ 3400000,Jordans,"[7, 7.5, 8.5, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Hyper-royal.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Hyper-royal.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/hyper-royal-3.jpg"
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-pharrell-williams-hu-nmd-noble-ink/,Adidas Pharrell Williams Hu Nmd Noble Ink,₹ 2299900,Adidas,[8],N/A,"Adidas, Sneakers"," style=""text-align: center"">The NMD Noble Ink uses a multicolour primeknit upper that promises comfort and ease. The upper features the words “Body” and “Earth” on each foot embroidered in white. The pair is completed with a yellow collar and lace cage providing perfect contrast and character to the runner.","https://www.copunderdog.com/wp-content/uploads/2021/04/Adobe_Post_20210412_1904240.2849964342496052.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-top.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-toe.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-cage.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Adobe_Post_20210412_1904240.2849964342496052.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-top.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-toe.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/pharrell-adidas-nmd-hu-trail-noble-ink-cage.jpeg"
+https://www.copunderdog.com/shop/sneakers/nike/nike-air-max-97-1-shawnwitherspoon/,Nike Air Max 97/1 Sean Wotherspoon,₹ 11000000,Nike,"[6, 6.5]",N/A,"Bae Section, Nike, Sneakers","Pads
+In store ready to ship","https://www.copunderdog.com/wp-content/uploads/2021/04/Adobe_Post_20210408_1632360.14526081000923263.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474107_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474108_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474110_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/Adobe_Post_20210408_1632360.14526081000923263.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474107_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474108_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/04/nike-air-max-1-97-vf-sw-sean-wotherspoon_13123219_27474110_1000.png"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foam-runner-moon-gray/,Adidas Yeezy Foam Runner Moon Gray,₹ 3099900,Yeezy,"[5, 6]",N/A,"Bae Section, Sneakers, Yeezy"," style=""text-align: center"">The Yeezy Foam RNNR MXT Moon Grey delivers a new color layout, making it different from the original, neutral Ararat. Constructed partially from algae, the entire shoe is hit with a mix of Sand and Moon Grey colors in a psychedelic mashup that covers the entire slipon","https://www.copunderdog.com/wp-content/uploads/2021/03/8-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/YZY-FOAM-RUNNER-GRAY-1_800x570.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/adidas-yeezy-foam-runner-mxt-moon-gray-GV7904-release-date-3.jpeg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/8-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/YZY-FOAM-RUNNER-GRAY-1_800x570.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/adidas-yeezy-foam-runner-mxt-moon-gray-GV7904-release-date-3.jpeg"
+https://www.copunderdog.com/shop/sneakers/yeezy/adidas-yeezy-foam-runner-sand/,Adidas Yeezy Foam Runner Sand,₹ 2999900,Yeezy,"[5, 6, 8, 11]",N/A,"Sneakers, Yeezy"," style=""text-align: center"">The adidas Yeezy Foam RNNR Sand arrives in a Sand monochromatic color scheme, much like its predecessor. Its one-piece sculpted upper with oval cut-outs provide a futuristic aesthetic to complete the bold design aesthetic.","https://www.copunderdog.com/wp-content/uploads/2021/03/IMG-20210326-WA0034.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/download.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/images-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/IMG-20210326-WA0034.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/download.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/images-1.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-qntm/,Yeezy QNTM,₹ 2999900,Yeezy,[6],N/A,"Bae Section, Sneakers, Yeezy"," style=""text-align: center"">The Yeezy QNTM is the brand&#8217;s first sneaker built for the court. Comprising a grey Primeknit upper with suede overlays and reflective detailing. A translucent sole, extended ankle collar, and reinforced heel cap completes the design. The Hightop style allows for perfect grip and traction both on and off court.","https://www.copunderdog.com/wp-content/uploads/2021/03/Adobe_Post_20210325_1429420.8857588030512232.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/yzy-qntm-restock-main.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/yeezy-qntm.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/Adobe_Post_20210325_1429420.8857588030512232.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/yzy-qntm-restock-main.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/yeezy-qntm.jpg"
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-pharrell-williams-solar-hu-glide/,Adidas Pharrell Williams Solar Hu Glide,₹ 999900,Adidas,"[6, 7]",N/A,"Adidas, Sneakers",,https://www.copunderdog.com/wp-content/uploads/2021/03/Adobe_Post_20210319_1658310.15232448566452184.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-university-blue/,Air Jordan 1 High University Blue,₹ 3899900,Jordans,"[4.5, 6, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11, 12]",N/A,"Jordans, Sneakers",!--more--,"https://www.copunderdog.com/wp-content/uploads/2021/03/7.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/7.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/j1-unc-2.jpg"
+https://www.copunderdog.com/shop/sneakers/nike-dunk-high-mastermind/,Nike Dunk High Mastermind,₹ 3999900,Sneakers,[9],N/A,,In store ready to ship,https://www.copunderdog.com/wp-content/uploads/2021/03/Adobe_Post_20210316_1757440.829654982116957.png
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-syracuse/,Nike Dunk High Syracuse,₹ 2100000,Nike,"[7, 8, 9, 9.5, 11, 12]",N/A,"Nike, Sneakers","Brand new
+in store ready to ship","https://www.copunderdog.com/wp-content/uploads/2021/03/8.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731443_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731444_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731446_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/8.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731443_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731444_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/03/nike-kids-nike-dunk-high-gs-syracuse_16617787_32731446_1000.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-vaporwaffle-sacai/,Sacai x Nike Vapourwaffle Black,₹ 4999900,Nike,[9],N/A,"Nike, Sneakers",VNDS IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/nike-x-sacai-vaporwaffle-black-and-white-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30334974_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30336645_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30338486_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-x-sacai-vaporwaffle-black-and-white-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30334974_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30336645_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-vaporwaffle-sacai-black-white_15819553_30338486_1000.png"
+https://www.copunderdog.com/shop/sneakers/puma-cell-alien/,Puma Cell Alien,₹ 750000,Sneakers,[7],N/A,,"Brand new
+No box",https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1829270.9691993923373329.png
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-night-jogger-white/,Adidas Nite Jogger White,₹ 600000,Adidas,[7],N/A,"Adidas, Sneakers"," style=""text-align: center"">The all White Nite Jogger features a full length boost midsole with an ortholite liner. reflective panels and accents does justice to the nite jogger name making it perfect for nighttime visibility. Paying perfect homage to the iconic sneaker from the 70s with modern materials and a futuristic design. the full boost midsole makes for an extremely comfortable running sneakers",https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1824590.6903885973171593.png
+https://www.copunderdog.com/shop/sneakers/reebok-classic-cl-nu-beige/,Reebok Classic Cl Nu Alabaster,₹ 499900,Sneakers,[7],N/A,,"Brand new
+No box",https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1808450.9742964793125887.png
+https://www.copunderdog.com/shop/sneakers/adidas/adidas-originals-falcon-gold/,Adidas Originals Falcon Gold,₹ 499900,Adidas,[6],N/A,"Adidas, Sneakers","Vnds
+No Box",https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1757370.38011740702423125.png
+https://www.copunderdog.com/shop/sneakers/nike/nike-day-break-type/,Nike Day Break Type Anthracite,₹ 999900,Nike,[10],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1751370.5813925792478168.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4956d.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4ad91.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4dd7c.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1751370.5813925792478168.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4956d.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4ad91.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/02/nike-dbreak-type-blackmenta-summit-white-anthracite-5ebf762c4dd7c.png"
+https://www.copunderdog.com/shop/sneakers/puma-rs-x-motorola/,Puma Rs x Motorola,₹ 499900,Sneakers,[9],N/A,,Brand new in store ready to ship,https://www.copunderdog.com/wp-content/uploads/2021/02/Adobe_Post_20210204_1748390.020323350142791408.png
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-11-breds-lows/,Air Jordan 11 Low Bred,₹ 1799900,Jordans,"[8, 9, 10]",N/A,"Jordans, Sneakers",Brand new in store ready to ship,"https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210115_1514390.6118741571378827.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-11.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-111.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-1111.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210115_1514390.6118741571378827.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-11.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-111.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/bred-1111.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-volt-gold/,Air Jordan 1 High Volt Gold,₹ 2350000,Jordans,"[8, 9, 9.5, 10, 11]",N/A,"Jordans, Sneakers",!--more--,"https://www.copunderdog.com/wp-content/uploads/2020/11/6.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/6.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/volt-gold-2.jpg"
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-380-mists/,Adidas Yeezy 380 Mist,₹ 2399900,Yeezy,"[6, 7.5, 9.5, 11.5]",N/A,"Bae Section, Sneakers, Yeezy"," style=""text-align: center""><span style=""font-weight: 400"">The 380 Mist features a Mist Primeknit pattern on its upper and lacks the traditional lateral side stripe. An upgraded translucent Boost midsole and engineered gum outsole grip complete the design. The 380 Mist was originally supposed to debut as a 350 v3. These sneakers released in March of 2020  as a whole different silhouette; the 380’s </span","https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210108_2257430.4951210558864424.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543639_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543641_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543643_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210108_2257430.4951210558864424.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543639_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543641_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/15257178_27543643_2048.png"
+https://www.copunderdog.com/shop/sneakers/yeezy/yeezy-700-v3-alvah/,Adidas Yeezy 700 v3 Alvah,₹ 2999900,Yeezy,"[5, 6.5, 7, 7.5]",N/A,"Bae Section, Sneakers, Yeezy"," style=""text-align: center"">The Adidas Yeezy 700 V3 Alvah is the perfect example of how an all black color scheme can make even the boldest silhouette look classy. Featuring a black and grey upper with a glow in the dark RPU cage for structure and durability. 3M reflective detailing on the toe and an EVA midsole and outsole complete the pair.","https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210108_2248550.03387924876658632.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/adidas-yeezy-700-v3-black-alvah-store-list-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/adidas-yeezy-700-v3-alvah-closer-look-h67799-004.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/where-to-buy-yeezy-700-v3-alvah-h67799-release-info-4_800x.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/Adobe_Post_20210108_2248550.03387924876658632.png ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/adidas-yeezy-700-v3-black-alvah-store-list-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/adidas-yeezy-700-v3-alvah-closer-look-h67799-004.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2021/01/where-to-buy-yeezy-700-v3-alvah-h67799-release-info-4_800x.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-3-x-fragment/,Fragment x Air Jordan 3 Retro,₹ 3999900,Jordans,"[9, 10, 11.5]",N/A,"Jordans, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/5-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/5-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/12/air-jordan-3-x-fragment-white-release-date-4.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-sp-champ-colours/,Nike Dunk Low SP &#8216;Champ Colours&#8217;,₹ 2999900,Nike,[9],N/A,"Nike, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-champ-colors-release-date-10.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475598_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475597_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475599_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-champ-colors-release-date-10.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475598_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475597_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-retro-champ-colors_15571827_28475599_1000.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-high-spartan-green/,Nike Dunk High Spartan Green,₹ 2500000,Nike,"[8, 9.5]",N/A,"Nike, REPBULIC DAY SALE, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-high-spartan-green-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29492206_1000.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29492205_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29491258_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-high-spartan-green-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29492206_1000.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29492205_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-high-sp-spartan-green_15900921_29491258_2048.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-air-presto-mid-utility-x-acronym-cool-grey-black/,Nike Air Presto Mid Utility X Acronym &#8216;Cool Grey &amp; Black&#8217;,₹ 2699900,Nike,[8],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/air-presto-mid-utility-x-acronym-cool-grey-black-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27490344_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27492816_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27492817_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/air-presto-mid-utility-x-acronym-cool-grey-black-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27490344_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27492816_2048.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-presto-mid-acronym-acronym-cool-grey_13423892_27492817_2048.png"
+https://www.copunderdog.com/shop/sneakers/nike/nike-dunk-low-co-jp-samba/,Nike Dunk Low Co.Jp Samba,₹ 2799900,Nike,"[8, 9, 10]",N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-samba_15793529_29292602_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date-back.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-dunk-low-samba_15793529_29292602_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date-back.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/dunk-low-samba-release-date.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-og-co-jp-midnight-navy/,Air Jordan 1 High Co.Jp Midnight Navy,₹ 2999900,Jordans,"[7.5, 8, 9.5]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/11/air-jordan-1-high-og-cojp-midnight-navy-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/co.jp-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/co.jp-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/air-jordan-1-high-og-cojp-midnight-navy-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/co.jp-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/co.jp-2.jpg"
+https://www.copunderdog.com/shop/sneakers/nike/clot-x-nike-air-force-1-low-blue/,Clot x Nike Air Force 1 Low Blue,₹ 3500000,Nike,[11],N/A,"Nike, Sneakers",BRAND NEW IN STORE READY TO SHIP NO BOX,"https://www.copunderdog.com/wp-content/uploads/2020/11/air-force-1-clot-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27535401_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27535402_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27536752_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/air-force-1-clot-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27535401_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27535402_1000.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/11/nike-air-force-1-prm-clot-blue-silk_14688318_27536752_1000.png"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-smoke-grey/,Air Jordan 1 High Smoke Grey,₹ 3199900,Jordans,"[4, 6, 7, 7.5, 8, 8.5, 9, 10, 11]",N/A,"Jordans, Sneakers",BRAND NEW INSTORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-smoke-grey-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-smoke-grey-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/smoke-grey-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-low-laser-blue-black/,Air Jordan 1 Low Laser Blue Black,₹ 1499900,Jordans,"[9, 9.5, 10, 10.5, 11, 12]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-low-shoe-6Q1tFM-15.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-low-shoe-6Q1tFM-15.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/laser-3.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-og-royal-toe/,Air Jordan 1 High Royal Toe,₹ 3500000,Jordans,"[8, 13]",N/A,"Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-white-royal-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-white-royal-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/royal-toe-2.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-og-co-jp-tokyo/,Air Jordan 1 HighCO.JP Tokyo,₹ 2700000,Jordans,"[3, 3.5, 6, 9, 9.5, 10, 11]",N/A,"Bae Section, Jordans, Sneakers",BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/7-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-5.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/7-1.png ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-5.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-retro-high-og-cojp-tokyo-release-date-1.jpg"
+https://www.copunderdog.com/shop/sneakers/jordans/air-jordan-1-high-biohack/,Air Jordan 1 High Biohack,₹ 3299900,Jordans,"[7, 8, 9]",N/A,"Jordans, Sneakers",!--more-->BRAND NEW IN STORE READY TO SHIP,"https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-1.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-4.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-3.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-2.jpg ,
+https://www.copunderdog.com/wp-content/uploads/2020/10/air-jordan-1-baroque-brown-release-date-1.jpg"
